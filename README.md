@@ -20,4 +20,6 @@ Drafts a Professional and empathetic email reply for the negative reviews.
 No Code/ Low Code - Zapier to build an action driven agent.
 
 **System Design**
-<img width="1123" height="566" alt="image" src="https://github.com/user-attachments/assets/1ab79c97-a922-4857-9b57-d8140db0c383" />
+assets/CRA.png
+
+**Scaling Strategy**
