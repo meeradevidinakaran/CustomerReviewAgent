@@ -23,3 +23,4 @@ No Code/ Low Code - Zapier to build an action driven agent.
 assets/CRA.png
 
 **Scaling Strategy**
+assets/Scaling_Strategy.md
