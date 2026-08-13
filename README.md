@@ -19,9 +19,11 @@ A Zapier agent with optimized system prompt monitors the incoming customer revie
 # System Design
 ![SystemDesign](assets/CRASystemDesign.png)
 
-# Scaling Strategy
-![Scaling Strategy](assets/Scaling_Strategy.md)
 
 # Setup Instructions
 ![SetupInstructions](doc/SetupInstructions.md)
+
+
+# Scaling Strategies 
+Full implementation templates and production scaling strategies are maintained in a private repository; access for technical review is available upon request
 
