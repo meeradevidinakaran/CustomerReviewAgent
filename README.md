@@ -10,17 +10,15 @@ Every Ecommerce team drowns in customer reviews and misses critical signals that
 **Issue ** - There are hundreds of reviews across products and it's difficult to read through all of them and classify and respond.
 The Customer support team might spend too much time on these analysis even before responding. 
 
-# How can an AI agent resolve this
-It monitors the incoming customer reviews
-Automatically analyzes the sentiment and intent
-Decides whether a response is required
-Drafts a Professional and empathetic email reply for the negative reviews.
+# Goal
+Build an AI agent that reads the customer review, analyzes sentiments and updates email drafts where necessary (Negative Reviews). 
 
-# Platform
-No Code/ Low Code - Zapier to build an action driven agent.
+# Solution
+A Zapier agent with optimized system prompt monitors the incoming customer reviews; LLM model analyzes the sentiment and intent- decides whether a response is required or not and Drafts a Professional and empathetic email reply for the negative reviews. Running a scheduled trigger to fetch any new customer review serves a managed scope intent. 
+
 
 **System Design**
-assets/CRA.png
+![System Desing](assets/CRASystemDesign.png)
 
 **Scaling Strategy**
-assets/Scaling_Strategy.md
+![Scaling Strategy](assets/Scaling_Strategy.md)
