@@ -23,5 +23,5 @@ A Zapier agent with optimized system prompt monitors the incoming customer revie
 ![Scaling Strategy](assets/Scaling_Strategy.md)
 
 # Setup Instructions
-![SetupInstructions](docs/SetupInstructions.md)
+![SetupInstructions](doc/SetupInstructions.md)
 
