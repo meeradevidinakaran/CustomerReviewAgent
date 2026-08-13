@@ -16,9 +16,12 @@ Build an AI agent that reads the customer review, analyzes sentiments and update
 # Solution
 A Zapier agent with optimized system prompt monitors the incoming customer reviews; LLM model analyzes the sentiment and intent- decides whether a response is required or not and Drafts a Professional and empathetic email reply for the negative reviews. Running a scheduled trigger to fetch any new customer review serves a managed scope intent. 
 
+# System Design
+![SystemDesign](assets/CRASystemDesign.png)
 
-**System Design**
-![System Desing](assets/CRASystemDesign.png)
-
-**Scaling Strategy**
+# Scaling Strategy
 ![Scaling Strategy](assets/Scaling_Strategy.md)
+
+# Setup Instructions
+![SetupInstructions](docs/SetupInstructions.md)
+
